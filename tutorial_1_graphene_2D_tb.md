@@ -31,8 +31,8 @@ We can rewrite the tight-binding Hamiltonian as the following:
 $$H=\frac{-\gamma_0}{N/2}\sum_{i}{\sum_{\boldsymbol{\delta, k, k'}}{a^\dagger_kb_{k'}e^{i\boldsymbol{(k-k')r_i}}e^{-i\boldsymbol{(k')\delta}}}}.$$
 
 Since
-$$
-\sum_i{e^{i\boldsymbol{(k-k')r_i}}}=\frac{N}{2}\delta_\boldsymbol{k,k'},$$
+
+$$\sum_i{e^{i\boldsymbol{(k-k')r_i}}}=\frac{N}{2}\delta_\boldsymbol{k,k'},$$
 
 we can simplify our Hamiltonian to the following:
 
