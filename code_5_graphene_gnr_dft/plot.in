@@ -1,0 +1,5 @@
+&bands
+    prefix='2_GNR'
+    outdir='./'
+    filband = 'GNR_2_2.dat'
+/
