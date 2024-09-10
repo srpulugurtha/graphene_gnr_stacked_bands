@@ -1,5 +1,8 @@
 We can develop a tight-binding model for multilayer graphene by considering interactions within a single layer and between neighboring layers. We consider interactions from the nearest-neighbors within a single layer of graphene, along with the non-negligible second nearest-neighbors from adjacent layers of graphene. For the simplest models that neglect twisting and other complex stacking arrangements, we can categorize multilayer graphene into AB and AA stacking orders. 
 
+![image](https://github.com/user-attachments/assets/ec9afcf0-274d-4877-a261-9979a5a6c78f)
+
+
 AB stacking is characterized by the z-direction interactions between A and B sublattice atoms, while AA stacking is characterized by z-direction interactions between 2 A or 2 B sublattice atoms.
 
 
