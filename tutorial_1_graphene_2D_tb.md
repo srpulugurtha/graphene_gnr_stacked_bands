@@ -71,6 +71,9 @@ $$\boldsymbol{b_1} = \frac{2 \pi}{3a}(1, -\sqrt{3}), \boldsymbol{b_2} =\frac{2 \
 
 $$\boldsymbol{K} = \frac{2 \pi}{3\sqrt{3}a}(\sqrt{3}, 1), \boldsymbol{K'} =\frac{2 \pi}{3\sqrt{3}a}(\sqrt{3}, -1)$$
 
+![image](https://github.com/user-attachments/assets/78682d2d-b5b9-4b5c-8fc7-6bcbeaf1083e)
+
+
 The Dirac points can be seen in the reciprocal lattice of graphene in red. The reciprocal lattice vectors are in black, labeled $b_1$ and $b_2$.
 
 We can quantify this linear relationship by calibrating k-vectors such that the origin is at the K point:
