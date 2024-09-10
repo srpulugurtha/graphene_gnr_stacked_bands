@@ -5,6 +5,9 @@ AB stacking is characterized by the z-direction interactions between A and B sub
 
 We can characterize the energy-hopping interactions in the z-direction (second nearest neighbor) as $\gamma_1$ and in nearest neighbor directions as $\gamma_\pm = \hbar v_f (k_x \pm ik_y)$.
 
+![image](https://github.com/user-attachments/assets/bec9e747-1467-4541-88be-7c24926385a9)
+
+
 We can define an eigenvector basis that corresponds to the A or B sublattices of the nth layer:
 
 $$\psi = \begin{bmatrix} A_1 \\ B_1 \\ A_2 \\ B_2 \\ \dots \\ A_N \\ B_N  \end{bmatrix}$$
