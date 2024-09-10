@@ -1,5 +1,8 @@
 We can characterize the geometries of graphene nanoribbons into 2 main categories determined by their edge type, namely zig-zag and armchair nanoribbons (AGNRs). We see that AGNRs with a width of $n$ atoms where $n=3p+2, p=0,1,2...$ are semimetallic. We can understand these properties by studying the band structure of AGNRs by developing a tight-binding model. See the appendix of [this paper](https://iopscience.iop.org/article/10.1088/1468-6996/11/5/054504/pdf) for analytical solutions and a more thorough derivation. 
 
+![image](https://github.com/user-attachments/assets/bec9e747-1467-4541-88be-7c24926385a9)
+
+
 Using the same formalism as before with creation and annihilation operators, we define the following as our tight-binding Hamiltonian.
 
 
