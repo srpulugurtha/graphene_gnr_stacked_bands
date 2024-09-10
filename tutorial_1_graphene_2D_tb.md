@@ -2,7 +2,7 @@
 
 Graphene is made of up a single layer of carbon atoms arranged in a hexagonal lattice structure where each carbon atom is bonded to three neighboring carbon atoms. Its crystal structure can be described as the combination of two triangular sublattices A and B.
 
-[(INSERT PNG OF 2D GRAPHENE BELOW FIG 1 IN PAPER)]
+![image](https://github.com/user-attachments/assets/dcecdc75-ec94-4db7-a616-332241dbed6b)
 
 The A and B sublattices are given in blue and orange colors. The unit cell is shaded in gray and defined by the lattice vectors in black. The nearest neighbor vectors are given in green.
 
@@ -56,6 +56,12 @@ $$\Delta_k = \sum_{\boldsymbol\delta}{e^{i\boldsymbol{k\delta}}}.$$
 Upon solving for the eigenvalues of $\boldsymbol{h(k)}$, we can find the energies of our tight-binding model as a function of the k-vector. Analytically, this yields
 
 $$E=\pm \gamma_0\sqrt{3 + 2cos(\sqrt{3}k_y a)+4cos(\frac{\sqrt{3}}{2}k_y a)cos(\frac{3}{2}k_x a)}.$$
+
+![image](https://github.com/user-attachments/assets/a0c09bef-f274-4767-8122-60e0e5488317)
+
+![image](https://github.com/user-attachments/assets/004ac148-c1af-4656-8ff7-7d30290a1e23)
+
+
 
 Above: The band structure has been plotted as function of $k_x$ and $k_y$ in 3D. The valence band is shown in orange and the conduction band is shown in orange. The zoomed in area shows the Dirac point. Below: A 2D cross section has been taken to show the Dirac Points labelled K and K'.
 
